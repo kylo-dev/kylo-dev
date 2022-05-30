@@ -1,9 +1,13 @@
-### Hi there 👋
-
 ![header](https://capsule-render.vercel.app/api?type=waving&color=random&height=350&section=header&text=kyeom%20gyeom&animation=fadeIn&fontSize=90)
 
-<div align="center"> 
-            <p>📝 Studying 📝</p>
+### Hi there 👋
+---
+>I'm hyungyeom kim, interested in __Big data and ML__. So, studying data analysis and machine learning theory and model.  
+>especially I'm interested in __recommended system and NLP(natural language processing)__.  
+
+
+<div align="center">
+            <p>📝Studying📝</p>
             <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
               <img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=Numpy&logoColor=white"/>
               <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=Scikit-learn&logoColor=white"/>
