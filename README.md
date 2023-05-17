@@ -2,8 +2,8 @@
 
 ### Hi there 👋
 ---
->I'm hyungyeom kim, interested in __Big data and ML__. So, studying data analysis and machine learning theory and model.  
->especially I'm interested in __recommended system and NLP(natural language processing)__. <br/>
+>I'm hyungyeom kim, interested in __DATABASE, SPRING Boot, JPA__. So, studying Spring Boot and Database, Server  
+>especially I'm interested in __Database design and management, Server deployment and data communication__. <br/>
 
 <div align="center">
             <p style="font-weight:bold">📝<b>Studying</b>📝</p>
