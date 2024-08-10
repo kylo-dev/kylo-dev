@@ -1,10 +1,13 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=random&height=350&section=header&text=kyeom%20gyeom&animation=fadeIn&fontSize=90)
 
 ### Hi there 👋
+#### Backend와 Cloud Native에 관심을 가지고 있는 개발자 김현겸
 ---
-> I'm hyungyeom kim, interested in __DATABASE, SPRING Boot, JPA, Restful API, Docker, AWS__. <br/>
-> So, studying Spring Boot and Mysql, Server, API Specification <br/>
-> especially I'm interested in __Database design and management, Server deployment and Data communication__. <br/>
+
+> 현재, Cloud Native 기술에 관심을 가지고 MSA 환경과 Kubernetes 기술을 다루고 있습니다. 클라우드 환경은 GCP, Aws, Kakao Cloud를 사용했으며, 쿠버네티스 엔진은 Kakao Cloud를 통해 구축했습니다.
+> - Restful API 개발은 Spring Boot, JPA, QueryDsl 사용하고 있으며, Swagger, Notion을 통해 명세하고 있습니다 </br>
+> - 서버 배포는 Gradle, Docker, Jib을 통해 배포하며 도커 이미지와 컨테이너를 다루었습니다. </br>
+> - 데이터베이스는 RDBMS: MySQL을 주로 사용하고, NoSQL: Redis를 사용하여 RT 및 캐싱 적용하였습니다. </br> 또한, ElasticSearch의 검색 엔진을 사용하여 게시글의 내용을 색인하여 검색 기능을 만든 경험이 있습니다. </br>
 
 #### 📞 Cotact Me
 <a href="https://kylo8.tistory.com"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/>
