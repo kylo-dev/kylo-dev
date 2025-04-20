@@ -13,14 +13,13 @@
 #### 📞 Cotact Me
 <a href="https://kylo8.tistory.com"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
 <a href="mailto:rlagusrua3687@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkylo-dev&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kylo-dev&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 💻 <b>Backend</b>
 
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Spring_Security-%236DB33F?logo=springsecurity&logoColor=white">
 <br/>
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/>
@@ -29,7 +28,7 @@
 📱 <b>Test</b>
 
 <img src="https://img.shields.io/badge/JUnit5-25A162?logo=junit5&logoColor=white">&nbsp;
-<img src="https://img.shields.io/badge/Jmeter-D22128?logo=Apache Jmeter&logoColor=white">
+<img src="https://img.shields.io/badge/Jmeter-D22128?logo=apachejmeter&logoColor=white">
 
 💿 <b>Database</b>
 
@@ -42,16 +41,12 @@
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white"/>
 <br/>
-<img src="https://img.shields.io/badge/Github Actions-2088FF?&logo=Github Actions&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/Github Actions-2088FF?&logo=githubactions&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/Argo-EF7B4D?&logo=Argo&logoColor=white">
 <br/>
-<img src="https://img.shields.io/badge/AWS EC2-FF9900?style=flat-square&logo=Amazon EC2&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/AWS S3-569A31?style=flat-square&logo=Amazon S3&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/AWS RDS-527FFF?style=flat-square&logo=Amazon RDS&logoColor=white"/>&nbsp;
-<br/>
-<img src="https://img.shields.io/badge/Google Cloud-4285F4?style=flat-square&logo=Google Cloud&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/Kakao-FFCD00?style=flat-square&logo=Kakao&logoColor=black"/>&nbsp;
-<img src="https://img.shields.io/badge/Kakao K8S Engine-FFCD00?style=flat-square&logo=Kakao&logoColor=black"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Google Cloud-4285F4?style=flat-square&logo=GoogleCloud&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Kakao Cloud-FFCD00?style=flat-square&logo=Kakao&logoColor=black"/>&nbsp;
 
 📊 <b>Monitoring</b>
 
