@@ -62,6 +62,6 @@
 
 ---
 
-** My Git Star💫**
+**My Git Star💫**
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kylo-dev)](https://github.com/anuraghazra/github-readme-stats)
