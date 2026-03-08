@@ -1,34 +1,35 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=random&height=350&section=header&text=kyeom%20gyeom&animation=fadeIn&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=random&height=350&section=header&text=Hyun%20gyeom&animation=fadeIn&fontSize=90)
 
 ### Hi there 👋
-#### Backend와 Cloud Native에 관심을 가지고 있는 서버 개발자 김현겸입니다.
+#### AI와 Backend를 기반으로 프로덕트 전반을 다루는 <b>Product Engineer</b>
 ---
 
-> Cloud Native 기술에 관심을 가지고 MSA 환경과 Kubernetes 기술을 다루고 있습니다. 클라우드 환경은 GCP, Aws, Kakao Cloud를 사용했으며, 쿠버네티스 엔진은 Kakao Cloud를 통해 구축했습니다.
-> - Restful API 개발은 Spring Boot, JPA, QueryDsl 사용하고 있으며, Swagger, Notion을 통해 명세하고 있습니다 </br>
-> - 서버 배포는 Gradle, Docker, Jib을 통해 배포하며 도커 이미지와 컨테이너를 다루었습니다. </br>
-> - 데이터베이스는 RDBMS: MySQL / NoSQL: Redis, MongoDB를 사용하고 있으며, Redis를 통해 JWT Refresh Token TTL 저장 및 데이터 캐싱 적용했습니다.
-> - ElasticSearch의 검색 엔진을 사용하여 게시글의 내용을 색인하여 검색 기능을 만든 경험이 있습니다. </br>
+## 👨‍💻 About Me
 
-#### 📞 Cotact Me
-<a href="https://kylo8.tistory.com"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
-<a href="mailto:rlagusrua3687@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+저는 **AI와 Backend를 기반으로 실제 서비스 문제를 해결하는 Product Engineer**입니다.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kylo-dev&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+여행 도메인에서 **AI 기반 운영 자동화 시스템을 구축해 반복적인 수작업과 운영 비효율을 줄이고 실제 서비스 운영 문제를 개선**해왔습니다.
+
+또한, **AI 여행 상품 생성 시스템, 글로벌 공급사 API 연동, 비동기 이벤트 기반 백엔드 시스템** 등을 개발하며 **서비스 운영 효율을 높이고 사용자에게 더 빠르게 가치를 전달하는 구조**를 만드는 데 집중하고 있습니다.
+
+기술 자체보다 **실제 문제 해결과 사용자 가치 전달**에 집중하며 개발 과정에서 얻은 인사이트를 기록하고 팀과 공유하며 **더 나은 시스템 구조를 지속적으로 고민합니다.**
+
+---
+
+## 🚀 What I Do
+- 반복적인 수작업을 대체하는 **AI 기반 자동화 시스템** 구축
+- **제품 운영을 개선하는 AI 워크플로우 및 내부 도구** 개발
+- **글로벌 공급사 API 및 예약 시스템** 통합
+- AWS 기반 개발 및 운영 환경 구축
+
+---
 
 💻 <b>Backend</b>
 
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/Spring_Security-%236DB33F?logo=springsecurity&logoColor=white">
-<br/>
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
 <br/>
 
-📱 <b>Test</b>
-
-<img src="https://img.shields.io/badge/JUnit5-25A162?logo=junit5&logoColor=white">&nbsp;
-<img src="https://img.shields.io/badge/Jmeter-D22128?logo=apachejmeter&logoColor=white">
 
 💿 <b>Database</b>
 
@@ -39,26 +40,21 @@
 ⚙️ <b>Infra</b>
 
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white"/>
-<br/>
-<img src="https://img.shields.io/badge/Github Actions-2088FF?&logo=githubactions&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Github Actions-2088FF?&logo=githubactions&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/Argo-EF7B4D?&logo=Argo&logoColor=white">
 <br/>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white"/>&nbsp;
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)&nbsp;
 <img src="https://img.shields.io/badge/Google Cloud-4285F4?style=flat-square&logo=GoogleCloud&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/Kakao Cloud-FFCD00?style=flat-square&logo=Kakao&logoColor=black"/>&nbsp;
 
 📊 <b>Monitoring</b>
 
 <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=Prometheus&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=Grafana&logoColor=white"/>
 
-🤖 <b>AI</b>
+---
 
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=Pandas&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=Scikit-learn&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/>
-<br/>
-
-
-<p>◾◾◾</p>
+#### 📞 Cotact Me
+<a href="https://kylo8.tistory.com"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
+<a href="mailto:rlagusrua3687@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 ---
 
